@@ -1,0 +1,7 @@
+com\freecrm\qa\base\TestBase.class
+com\freecrm\qa\pages\LoginPage.class
+com\freecrm\qa\pages\SignUpPage.class
+com\freecrm\qa\pages\DealsPage.class
+com\freecrm\qa\pages\ContactsPage.class
+com\freecrm\qa\utilities\TestUtil.class
+com\freecrm\qa\pages\HomePage.class
